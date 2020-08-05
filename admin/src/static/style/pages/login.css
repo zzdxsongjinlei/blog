@@ -1,0 +1,15 @@
+.loginbox {
+  width: 300px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* background-color:rgba(255, 255, 255, 0.85); */
+  background-color:#efefef;
+  padding: 50px 30px;
+  /* min-height: 400px; */
+  border-radius: 10px;
+}
+.logincontainer {
+  background-color: #000;
+}

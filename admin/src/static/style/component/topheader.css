@@ -1,0 +1,12 @@
+.avatorbox {
+  float: right;
+  margin-right: 16px;
+}
+.collapsedbox{
+	float:left;
+	margin-left:16px;
+	z-index:100;
+}
+.ant-dropdown-menu  {
+  margin: 1px 2px !important;
+}

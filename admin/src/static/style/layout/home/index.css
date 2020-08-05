@@ -1,0 +1,54 @@
+.box_content{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center ;
+}
+.box_h{
+	padding-top:30px;
+	padding-bottom:40px;
+	text-align:center;
+	font-size:20px;
+
+}
+.box{
+	flex-grow:1;
+	flex-shrink:1;
+	flex-basis:33%;
+	border:1px solid #777;
+	margin-bottom:10px;
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+
+}
+.box div{
+	margin-left:10px;
+
+	display: flex;
+	margin-top:30px;
+	flex-direction: column;
+	justify-content: center;
+
+	text-align: center;
+}
+.box_notice h3{
+	text-align: center
+}
+.box_notice p{
+	margin-top:15px; 
+	text-align: center
+}
+.box div p:first-child{
+	font-size:14px;
+}
+.box div p:last-child{
+	font-size:22px;
+	color:#456;
+}
+
+.box .box_icon {
+	font-size:30px;
+}
