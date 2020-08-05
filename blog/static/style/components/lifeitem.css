@@ -1,0 +1,37 @@
+.listItem{
+	width:50%;
+	float:left;
+	position: relative;
+
+}
+.listItem img{
+	width:100%;
+}
+.listItem-icon{
+  margin-top:1rem;
+  padding:.5rem 0;
+  color:#AAA;
+}
+.listItem-icon span{
+  display: inline-block;
+  padding: 0 10px;
+}
+.listItem:hover .listItem-content{
+	display: block;
+}
+
+.listItem-content{
+	display:none;
+	text-align: center;
+	width:100%;
+	background: #fff;
+	position: absolute;
+	left:0px;
+	right: 0px;
+	height: 6rem;
+	bottom:0;
+}
+.listItem-title{
+	text-align: center;
+	width: 100%;
+}

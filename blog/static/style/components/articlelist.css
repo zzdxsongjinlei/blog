@@ -1,0 +1,14 @@
+
+.articlelist  .ant-list-item  {
+	border-bottom-width:0px;
+}
+.articlelist a{
+	color:rgb(119,119,119);
+	text-decoration: underline;
+	font-size:0.7rem;
+	line-height:1rem
+}
+.articlelist a:hover{
+	color:#1890ff;
+}
+

@@ -1,0 +1,77 @@
+
+pre{
+    display: block;
+    background-color:#f3f3f3;
+     padding: .5rem !important;
+     overflow-y: auto;
+     font-weight: 300;
+     font-family: Menlo, monospace;
+     border-radius: .3rem;
+}
+pre{
+    background-color: #283646 !important;
+}
+pre >code{
+    border:0px !important;
+    background-color: #283646 !important;
+    color:#FFF;
+
+}
+code {
+    display: inline-block ;
+    background-color:#f3f3f3;
+    border:1px solid #fdb9cc;
+    border-radius:3px;
+    font-size: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color:#4f4f4f;
+    margin: 0px 3px;
+
+}
+
+.life_detail_main{
+    padding:1rem;
+
+}
+.life_detail_img{
+    width:50%;
+    float:left;
+}
+.life_detail_content{
+    width:50%;
+    float:right;
+    padding:1rem;
+}
+
+.life_detail_title{
+    color:rgb(30, 144, 255);
+    font-size:1.2rem;
+    text-align:center;
+}
+
+.life_detail_icon{
+   margin-top:1rem;
+   margin-bottom:1rem; 
+  text-align: center;
+  padding:.5rem 0;
+  color:#AAA;
+}
+.life_detail_icon span{
+  display: inline-block;
+  padding: 0 10px;
+}
+.life_detail_c{
+
+}
+
+
+
+
+
+
+
+
+
+
+

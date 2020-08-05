@@ -1,0 +1,30 @@
+
+.list-title{
+  font-size:1.3rem;
+  color: #1e90ff;
+  padding: 0 0.5rem;
+}
+.list-context{
+  color:#777;
+  padding:.5rem;
+}
+.list-icon{
+  padding:.5rem 0;
+  color:#AAA;
+}
+.list-icon span{
+  display: inline-block;
+  padding: 0 10px;
+}
+.list-footer-tag{
+  float: left;
+  padding:0.5rem 1rem;
+  
+}
+.list-footer{
+	float:right;
+	padding:0.5rem 1rem;
+}
+.list-footer .anticon-file{
+	margin-right:0.5rem;
+}
